@@ -1,4 +1,4 @@
-# Connected plant 🪴
+# Express typescript starter
 ## Start
 ```sh
 yarn dev
